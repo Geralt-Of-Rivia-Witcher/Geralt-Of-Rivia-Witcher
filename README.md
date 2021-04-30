@@ -1,4 +1,4 @@
-## Hello fellas 👋
+## Hello fellas ![](hello.gif)
 ### I'm **Siddhant**
 
 A first year student at **Manipal University Jaipur.**
