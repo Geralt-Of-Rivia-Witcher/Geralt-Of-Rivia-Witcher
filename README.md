@@ -11,6 +11,7 @@ I love Coding :computer:. I fell in love with technology when I was a child and 
 
 Apart from writing codes, I love getting lost in the virtual world of Video Games :video_game:.
 
+
 ### Social Hangouts:
 ***
 [<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/gmail.png" width="60" height="60">](mailto:singhsiddhantkumar@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/linkedin.png" width="55" height="55">](https://www.linkedin.com/in/siddhant-kumar-singh-ab57491b6/)
