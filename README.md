@@ -8,4 +8,8 @@ I love Coding :computer:. I fell in love with technology when I was a child and 
 
 - 🔭 I’m currently working on a few projects using **Java** <img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/java.png" width="30" height="30">.
 - 🌱 I'm also learning **Data Structures and Algorithms** and exploring the field of **Web Development** <img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/web.png" width="30" height="30">.
-- 💬 Ask me about anything you want. I'll be happy to help.
+
+If I'm not writing a code, then I'll be lost in the virtual world of Video Games :video_game:.
+
+### Social Hangouts:
+--
