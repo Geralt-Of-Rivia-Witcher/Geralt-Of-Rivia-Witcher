@@ -14,3 +14,5 @@ If I'm not writing a code, then I'll be lost in the virtual world of Video Games
 ### Social Hangouts:
 ***
 [<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/gmail.png" width="60" height="60">](mailto:singhsiddhantkumar@gmail.com)
+
+[<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/linkedin.png" width="60" height="60">](https://www.linkedin.com/in/siddhant-kumar-singh-ab57491b6/)
