@@ -3,7 +3,7 @@
 
 A first year student at ***Manipal University Jaipur.***
 I'm currently pursuing my Bachelor's degree in Computer Science and Engineering.
---
+***
 I love Coding :computer:. I fell in love with technology when I was a child and this is what helped me in developing a keen interest in Programming and Software development. I'm always eager to learn something new and build something practical out of it.
 
 - 🔭 I’m currently working on a few projects using **Java** <img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/java.png" width="30" height="30">.
@@ -12,5 +12,5 @@ I love Coding :computer:. I fell in love with technology when I was a child and 
 If I'm not writing a code, then I'll be lost in the virtual world of Video Games :video_game:.
 
 ### Social Hangouts:
---
+***
 [<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/gmail.png" width="60" height="60">](mailto:singhsiddhantkumar@gmail.com)
