@@ -9,8 +9,8 @@ I love Coding :computer:. I fell in love with technology when I was a child and 
 - 🔭 I’m currently working on a few projects using **Java** <img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/java.png" width="30" height="30">.
 - 🌱 I'm also learning **Data Structures and Algorithms** and exploring the field of **Web Development** <img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/web.png" width="30" height="30">.
 
-If I'm not writing a code, then I'll be lost in the virtual world of Video Games :video_game:.
+Apart from writing codes, I love getting lost in the virtual world of Video Games :video_game:.
 
 ### Social Hangouts:
 ***
-[<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/gmail.png" width="60" height="60">](mailto:singhsiddhantkumar@gmail.com)    [<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/linkedin.png" width="50" height="50">](https://www.linkedin.com/in/siddhant-kumar-singh-ab57491b6/)
+[<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/gmail.png" width="60" height="60">](mailto:singhsiddhantkumar@gmail.com)      [<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/linkedin.png" width="55" height="55">](https://www.linkedin.com/in/siddhant-kumar-singh-ab57491b6/)
