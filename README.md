@@ -14,4 +14,4 @@ Apart from writing codes, I love getting lost in the virtual world of Video Game
 
 ### Social Hangouts:
 ***
-[<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/gmail.svg" width="70" height="70">](mailto:singhsiddhantkumar@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/linkedin.png" width="55" height="55">](https://www.linkedin.com/in/siddhant-kumar-singh-ab57491b6/)
+[<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/gmail.svg" width="70" height="70">](mailto:singhsiddhantkumar@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://github.com/Geralt-Of-Rivia-Witcher/Geralt-Of-Rivia-Witcher/blob/main/linkedin.svg" width="70" height="70">](https://www.linkedin.com/in/siddhant-kumar-singh-ab57491b6/)
