@@ -3,7 +3,6 @@
 
 A MERN Stack Web Developer and a second year student at ***Manipal University Jaipur.***
 I'm currently pursuing my Bachelor's degree in Computer Science and Engineering.
-***
 I love Coding :computer:. I fell in love with technology when I was a child and this is what helped me in developing a keen interest in Programming and Software development. I'm always eager to learn something new and build something practical out of it.
 
 ### Tools I code with:
@@ -31,4 +30,5 @@ Tools
 Apart from writing codes, I love playing Video Games. Whenever I'm not coding, you'll find me getting lost in the virtual world of Video Games :video_game:.
 
 ### Below are my social media handles
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>](mailto:singhsiddhantkumar@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siddhant-kumar-singh-/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>](mailto:singhsiddhantkumar@gmail.com) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](
+wa.link/zqocrp) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/siddhant.exe_/) [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/Geralt_of_Rivia_)
