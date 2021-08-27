@@ -37,3 +37,5 @@ Apart from writing codes, I love playing Video Games. Whenever I'm not coding, y
 
 
 [![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geralt-Of-Rivia-Witcher&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geralt-Of-Rivia-Witcher)](https://github.com/anuraghazra/github-readme-stats)
