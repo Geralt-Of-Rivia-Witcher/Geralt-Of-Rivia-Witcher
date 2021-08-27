@@ -35,3 +35,6 @@ Apart from writing codes, I love playing Video Games. Whenever I'm not coding, y
 ### Below are my social media handles
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siddhant-kumar-singh-/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>](mailto:singhsiddhantkumar@gmail.com) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](
 wa.link/zqocrp) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/siddhant.exe_/) [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/Geralt_of_Rivia_)
+
+
+[![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geralt-Of-Rivia-Witcher)](https://github.com/anuraghazra/github-readme-stats)
