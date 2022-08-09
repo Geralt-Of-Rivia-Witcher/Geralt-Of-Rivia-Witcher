@@ -40,7 +40,7 @@ Apart from writing codes, I love playing Video Games. Whenever I'm not coding, y
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geralt-Of-Rivia-Witcher&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight">    <img  alt="Geralt-Of-Rivia-Witcher's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Geralt-Of-Rivia-Witcher?cardType=level&theme=tokyonight" />  </a>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight">    <img  alt="Geralt-Of-Rivia-Witcher's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Geralt-Of-Rivia-Witcher?cardType=level&theme=tokyonight" />  </a>
 
 ![](https://komarev.com/ghpvc/?username=Geralt-Of-Rivia-Witcher&color=blueviolet&style=plastic)
 
