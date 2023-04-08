@@ -3,16 +3,17 @@
 # Hello fellas :wave:
 ## I'm **Siddhant**
 
-A MERN Stack Web Developer and a third year student at ***Manipal University Jaipur.***
-I'm currently pursuing my Bachelor's degree in Computer Science and Engineering. 
+A passionate MERN Stack Web Developer, and a third-year Computer Science and Engineering student at Manipal University Jaipur.
 
-I love Coding :computer:. I fell in love with technology when I was a child and this is what helped me in developing a keen interest in Programming and Software development. I'm always eager to learn something new and build something practical out of it.
+I am currently a Backend Developer at FastJobs.io, where I have been honing my skills for the past year. As a developer, I am always eager to learn something new and build something practical out of it.
+
+Coding is not just a skill for me, it's a way of life :computer:. Since childhood, technology has been my constant companion, igniting my passion for Programming and Software Development.
 
 ### Tools I code with:
 
 Languages
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 Frameworks
 
@@ -28,19 +29,21 @@ Cloud
 
 Tools
 
-<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"> 
+<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"> 
 
 ___
 
-Apart from writing codes, I love playing Video Games. Whenever I'm not coding, you'll find me getting lost in the virtual world of Video Games :video_game:.
+But wait, there's more to me than just coding! I am also an avid gamer, always ready to dive into the virtual world and explore new adventures. So, if you want to talk about the latest games or share some gaming tips, feel free to hit me up :video_game:.
 
 ### Below are my social media handles
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siddhant-kumar-singh-/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>](mailto:singhsiddhantkumar@gmail.com) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.link/zqocrp) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/siddhant.exe_/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siddhant-kumar-singh-/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>](mailto:singhsiddhantkumar@gmail.com) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/siddhant.exe_/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geralt-Of-Rivia-Witcher&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight">    <img  alt="Geralt-Of-Rivia-Witcher's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Geralt-Of-Rivia-Witcher?cardType=level&theme=tokyonight" />  </a>
+
+Thanks for stopping by, and don't forget to check out my repositories for some cool projects!
 
 ![](https://komarev.com/ghpvc/?username=Geralt-Of-Rivia-Witcher&color=blueviolet&style=plastic)
 
