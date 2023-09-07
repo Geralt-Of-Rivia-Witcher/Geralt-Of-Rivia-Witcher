@@ -3,7 +3,7 @@
 # Hello fellas :wave:
 ## I'm **Siddhant**
 
-A passionate MERN Stack Web Developer, and a final-year Computer Science and Engineering student at Manipal University Jaipur.
+A passionate Developer, and a final-year Computer Science and Engineering student at Manipal University Jaipur.
 
 I am currently a Backend Developer at Fasthr.ai, where I have been honing my skills for the past year. As a developer, I am always eager to learn something new and build something practical out of it.
 
