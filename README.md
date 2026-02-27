@@ -1,51 +1,92 @@
-<div align="center">
+<h1 align="center">Siddhant Kumar Singh</h1>
 
-# Hello fellas :wave:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=0EA5E9&center=true&vCenter=true&width=980&lines=SDE+1+%7C+Backend+%26+Full-Stack+Engineer;Building+reliable+systems+with+clean+code" alt="Typing intro" />
+</p>
 
-## I'm **Siddhant**
-
-A passionate Developer, and a final-year Computer Science and Engineering student at Manipal University Jaipur.
-
-I am currently a Backend Developer at Refyne India. As a developer, I am always eager to learn something new and build something practical out of it.
-
-Coding is not just a skill for me, it's a way of life :computer:. Since childhood, technology has been my constant companion, igniting my passion for Programming and Software Development.
-
-### Tools I code with:
-
-Languages
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-
-Frameworks
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-
-Database
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
-Cloud
-
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-
-Tools
-
-<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+<p align="center">
+  <a href="https://github.com/Geralt-Of-Rivia-Witcher">
+    <img src="https://img.shields.io/badge/Role-SDE%201-0f766e?style=for-the-badge" alt="Role" />
+  </a>
+  <a href="https://github.com/Geralt-Of-Rivia-Witcher?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-1d4ed8?style=for-the-badge" alt="Focus" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Geralt-Of-Rivia-Witcher&style=for-the-badge&color=0e7490" alt="Profile views" />
+</p>
 
 ---
 
-But wait, there's more to me than just coding! I am also an avid gamer, always ready to dive into the virtual world and explore new adventures. So, if you want to talk about the latest games or share some gaming tips, feel free to hit me up :video_game:.
+## About
 
-### Below are my social media handles
+I am an **SDE 1** focused on backend-heavy product engineering, API design, and practical full-stack delivery.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siddhant-kumar-singh-/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>](mailto:singhsiddhantkumar@gmail.com) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/siddhant.exe_/)
+- Building production-ready systems with ownership and speed
+- Interested in system design, distributed systems, and developer tooling
+- Strong bias for clean architecture, readable code, and maintainability
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geralt-Of-Rivia-Witcher&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## Tech Stack
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight"> <img  alt="Geralt-Of-Rivia-Witcher's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Geralt-Of-Rivia-Witcher?cardType=level&theme=tokyonight" /> </a>
+### Languages
 
-Thanks for stopping by, and don't forget to check out my repositories for some cool projects!
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go)
 
-![](https://komarev.com/ghpvc/?username=Geralt-Of-Rivia-Witcher&color=blueviolet&style=plastic)
+### Frameworks and Runtime
 
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap)
+
+### Database and Messaging
+
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111827?style=for-the-badge&logo=rabbitmq)
+
+### Tooling and Deployment
+
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
+![Netlify](https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify)
+![Heroku](https://img.shields.io/badge/Heroku-111827?style=for-the-badge&logo=heroku)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare)
+
+## Featured Work
+
+<p>
+  <a href="https://github.com/Geralt-Of-Rivia-Witcher?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-0f172a?style=for-the-badge&logo=github" alt="View all repositories" />
+  </a>
+</p>
+
+## GitHub Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geralt-Of-Rivia-Witcher&theme=tokyonight" alt="GitHub stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geralt-Of-Rivia-Witcher&theme=tokyonight" alt="Most commit language card" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Geralt-Of-Rivia-Witcher&bg_color=0f172a&color=e2e8f0&line=38bdf8&point=f97316&area=true&hide_border=true" alt="GitHub activity graph" />
+  </a>
+</p>
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/siddhant-kumar-singh-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:singhsiddhantkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
